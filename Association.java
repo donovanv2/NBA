@@ -10,7 +10,7 @@ public class Association {
         season = new Season();
 
     }
-
+System.out.println("Donovan is the GOAT");
 
         private void exploreTeams() {
             char choice;
